@@ -1,0 +1,21 @@
+.container{
+    margin: 20px;
+    padding: 20px;
+    border: solid black;
+
+}
+
+.container img{
+    padding:15px;
+    width:200px;
+    border-radius: 50%;
+}
+
+h1{
+    color:aqua;
+
+}
+h2{
+    color:blanchedalmond;
+    
+}

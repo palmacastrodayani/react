@@ -1,0 +1,9 @@
+.hero{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://media.istockphoto.com/id/1406960186/photo/the-skyline-of-new-york-city-united-states.jpg?s=1024x1024&w=is&k=20&c=m5cYGPJsDS6nTsxYucy6jlCj7flGliYw6Lf4Ftg0jQs=");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
